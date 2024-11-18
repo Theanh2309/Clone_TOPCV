@@ -1,0 +1,155 @@
+{
+  "city": [
+    {
+      "key": "1",
+      "value": "Ha Noi",
+      "id": "89d5"
+    },
+    {
+      "key": "2",
+      "value": "Ho Chi Minh",
+      "id": "b327"
+    },
+    {
+      "key": "3",
+      "value": "Da Nang",
+      "id": "7aa8"
+    }
+  ],
+  "tags": [
+    {
+      "key": "1",
+      "value": "HTML5",
+      "id": "01c1"
+    },
+    {
+      "key": "2",
+      "value": "CSS3",
+      "id": "a1c3"
+    },
+    {
+      "key": "3",
+      "value": "Javascript",
+      "id": "5e1c"
+    },
+    {
+      "key": "4",
+      "value": "Database",
+      "id": "8cce"
+    },
+    {
+      "key": "5",
+      "value": "JSON",
+      "id": "1e8c"
+    },
+    {
+      "key": "6",
+      "value": "PHP",
+      "id": "b503"
+    },
+    {
+      "key": "7",
+      "value": "Python",
+      "id": "30ee"
+    },
+    {
+      "key": "8",
+      "value": "Java",
+      "id": "c729"
+    },
+    {
+      "key": "9",
+      "value": "ReactJS",
+      "id": "b96a"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "1",
+      "idCompany": "1",
+      "name": "Frontend Dev(ReactJS/Angular)",
+      "tags": [
+        "ReactJS",
+        "Angular",
+        "TypeScript"
+      ],
+      "salary": "1000",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "status": true,
+      "createAt": "24-04-2024 23:24:24",
+      "city": [
+        "Da Nang"
+      ],
+      "updateAt": "25-05-2024 23:25:25"
+    }
+  ],
+  "cv": [
+    {
+      "id": "1",
+      "idCompany": "1",
+      "idJob": "1",
+      "name": "Nguyen Van A",
+      "phone": "0123456789",
+      "email": "nguyenvana@gmail.com",
+      "statusRead": true,
+      "description": "Xin chao, toi La nguyen Van A...",
+      "linkProject": "",
+      "createAt": "23-09-2024 09:09:09",
+      "city": "Ha Noi"
+    },
+    {
+      "id": "0c2e",
+      "name": "Nguyen Van C",
+      "phone": "012293847143",
+      "email": "nguyenvanc@gmail.com",
+      "city": "0",
+      "description": "hoten:nguyenvanc",
+      "linkProject": "https:abc",
+      "idJob": "1",
+      "createAt": "17-10-2024 02:37:29",
+      "statusRead": true
+    },
+    {
+      "id": "0883",
+      "name": "D",
+      "phone": "12332",
+      "email": "d@gmail.com",
+      "city": "0",
+      "description": "tenD",
+      "linkProject": "Ddddd.vn",
+      "idJob": "1",
+      "idCompany": "1",
+      "createAt": "17-10-2024 02:42:25"
+    }
+  ],
+  "company": [
+    {
+      "id": "1",
+      "companyName": "Cong ty ABC",
+      "phone": "012345678999",
+      "email": "congtya@abc.com",
+      "password": "123456",
+      "token": "asjsancnaasjk",
+      "quantityPeople": 9,
+      "description": "1. Tam nhin\nTro thanh 1 trong nhung....\n2. Phuong cham...",
+      "detail": "Muc luong canh tranh\nMoi Truong lam viec...",
+      "address": "Cau Giay, Ha Noi",
+      "website": "https://a.com",
+      "workingTime": "8a.m - 5p.m"
+    },
+    {
+      "id": "2",
+      "companyName": "Cong ty B",
+      "phone": "012345678999",
+      "email": "congtya@abc.com",
+      "password": "123456",
+      "token": "asjsancnaasjk",
+      "quantityPeople": 8,
+      "description": "1. Tam nhin\nTro thanh 1 trong nhung....\n2. Phuong cham...",
+      "detail": "Muc luong canh tranh\nMoi Truong lam viec...",
+      "address": "Cau Giay, Ha Noi",
+      "website": "https://a.com",
+      "workingTime": "8a.m - 5p.m"
+    }
+  ]
+}
